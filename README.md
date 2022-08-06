@@ -66,8 +66,3 @@ A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit.<b
   }
 ```
 
----
-
-<h1 align="center">What do you think =?</h1>
-
-
